@@ -1,0 +1,11 @@
+{
+  "name": "newman_reporter_kiwi",
+  "version": "1.0.0",
+  "description": "This is a reporter for KIWI search to export data if cheap flight is found.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gyorgy Cziraki",
+  "license": "ISC"
+}
